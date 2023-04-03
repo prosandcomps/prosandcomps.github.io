@@ -13,7 +13,7 @@ Procedural and computational modeling frameworks have been applied successfully 
 ## Dates
 - Submission deadline: 7 May 2023
 - Notification: 1st week of June
-- Workshop: 31 July 2023 -- 4 August 2023
+- Workshop: 31 July -- 4 August 2023
 
 ## Invited speakers
 tba
