@@ -6,5 +6,5 @@ header_pages:
 minima:
   skin: dark
   social_links:
-    - { platform: github,  user_url: "https://prosandcomps.github.io/" }
+    - { platform: github,  user_url: "https://github.com/prosandcomps" }
 url: 'https://prosandcomps.github.io/'
