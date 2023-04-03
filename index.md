@@ -5,6 +5,7 @@ title: home
 # Procedural and computational models of semantic and pragmatic processes
 
 Workshop at the 34th European Summer School in Logic, Language and Information
+
 University of Ljubljana, Faculty of Computer and Information Science
 
 ## Abstract
