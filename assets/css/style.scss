@@ -3,3 +3,11 @@
 
 @import "minima/skins/{{ site.minima.skin | default: 'classic' }}";
 @import "minima/initialize";
+
+.bgimage{
+  background-image: url('https://commons.wikimedia.org/wiki/Ljubljana?uselang=de#/media/File:Ljubljanica_01.jpg');
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
