@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: home
 ---
 # Procedural and computational models of semantic and pragmatic processes
