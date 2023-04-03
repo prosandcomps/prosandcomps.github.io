@@ -1,0 +1,10 @@
+remote_theme: jekyll/minima
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+header_pages:
+  - index.md
+minima:
+  skin: dark
+  social_links:
+    - { platform: github,  user_url: "https://prosandcomps.github.io/" }
+url: 'https://prosandcomps.github.io/'
