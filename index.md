@@ -22,7 +22,9 @@ Procedural and computational modeling frameworks have been applied successfully 
 tba
 
 ## Organizers
-Sonia Ramotowska & [Fabian Schlotterbeck](https://uni-tuebingen.de)
+[Sonia Ramotowska](https://sites.google.com/view/soniaramotowska) (Heinrich Heine University Düsseldorf) & [Fabian Schlotterbeck](https://uni-tuebingen.de/de/110733) (Univiersity of Tübingen)
+
+You can contact us via the workshop's [submission site at EasyChair](https://easychair.org/conferences/?conf=proscomps2023) or [email](mailto:prosandcomps@gmail.com).
 
 ## Programm Committee
 tba
