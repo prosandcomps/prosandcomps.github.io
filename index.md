@@ -4,7 +4,7 @@ title: home
 ---
 # Procedural and computational models of semantic and pragmatic processes
 
-Workshop at the 34th European Summer School in Logic, Language and Information
+Workshop at the [34th European Summer School in Logic, Language and Information](https://2023.esslli.eu)
 
 University of Ljubljana, Faculty of Computer and Information Science
 
@@ -24,7 +24,7 @@ Procedural and computational modeling frameworks have been applied successfully 
 tba
 
 ## Organizers
-[Sonia Ramotowska](https://sites.google.com/view/soniaramotowska) (Heinrich Heine University Düsseldorf) & [Fabian Schlotterbeck](https://uni-tuebingen.de/de/110733) (Univiersity of Tübingen)
+[Sonia Ramotowska](https://sites.google.com/view/soniaramotowska) (Heinrich Heine University Düsseldorf) & [Fabian Schlotterbeck](https://uni-tuebingen.de/de/110733) (University of Tübingen)
 
 You can contact us via the workshop's [submission site at EasyChair](https://easychair.org/conferences/?conf=proscomps2023) or [email](mailto:prosandcomps@gmail.com).
 
