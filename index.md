@@ -22,7 +22,7 @@ Procedural and computational modeling frameworks have been applied successfully 
 tba
 
 ## Organizers
-Sonia Ramotowska & Fabian Schlotterbeck
+Sonia Ramotowska & [Fabian Schlotterbeck](https://uni-tuebingen.de)
 
 ## Programm Committee
 tba
