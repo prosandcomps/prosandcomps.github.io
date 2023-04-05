@@ -1,6 +1,6 @@
 ---
-layout: home
-title: home
+layout: main
+title: about
 ---
 # Procedural and computational models of semantic and pragmatic processes
 
@@ -28,5 +28,5 @@ tba
 
 You can contact us via the workshop's [submission site at EasyChair](https://easychair.org/conferences/?conf=proscomps2023) or [email](mailto:prosandcomps@gmail.com).
 
-## Programm Committee
+## Program Committee
 tba
