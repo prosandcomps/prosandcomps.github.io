@@ -22,6 +22,7 @@ Procedural and computational modeling frameworks have been applied successfully 
 
 ## Invited speakers
 [Bob van Tiel](https://bobvantiel.github.io) (Radboud University Nijmegen)
+
 tba
 
 ## Organizers
