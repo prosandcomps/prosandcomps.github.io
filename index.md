@@ -21,7 +21,7 @@ Procedural and computational modeling frameworks have been applied successfully 
 - Workshop: 31 July -- 4 August 2023
 
 ## Invited speakers
-tba
+[Bob van Tiel](https://bobvantiel.github.io) (Radboud University Nijmegen)
 
 ## Organizers
 [Sonia Ramotowska](https://sites.google.com/view/soniaramotowska) (Heinrich Heine University Düsseldorf) & [Fabian Schlotterbeck](https://uni-tuebingen.de/de/110733) (University of Tübingen)
