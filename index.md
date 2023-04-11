@@ -34,7 +34,6 @@ You can contact us via the workshop's [submission site at EasyChair](https://eas
 Asya Achimova  
 Berry Claus  
 Bob van Tiel  
-Fabian Schlotterbeck  
 Francis Mollica  
 Gregory Scontras  
 Jakub Dotlacil  
