@@ -31,4 +31,20 @@ tba
 You can contact us via the workshop's [submission site at EasyChair](https://easychair.org/conferences/?conf=proscomps2023) or [email](mailto:prosandcomps@gmail.com).
 
 ## Program Committee
-tba
+Asya Achimova
+Berry Claus
+Bob van Tiel
+Fabian Schlotterbeck
+Francis Mollica
+Gregory Scontras
+Jakub Dotlacil
+Jakub Szymanik
+Maria Spychalska
+Martin Schäfer
+Michael Franke
+Milica Denić
+Mingya Liu
+Oliver Bott
+Shane Steinert-Threlkeld
+Torgrim Solstad
+Tyler Knowlton
