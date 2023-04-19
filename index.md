@@ -33,7 +33,7 @@ You can contact us via the workshop's [submission site at EasyChair](https://eas
 ## Program Committee
 Asya Achimova  
 Berry Claus  
-Bob van Tiel 
+Bob van Tiel    
 Dan Lassiter   
 Francis Mollica  
 Giosuè Baggio   
