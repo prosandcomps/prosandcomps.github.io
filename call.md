@@ -28,6 +28,8 @@ Abstracts should be anonymous and not exceed 2 pages (plus one extra page for fi
 <details>
 <summary>References</summary>
 
+
+
 - Anderson, J. R., (2007). How Can the Human Mind Occur in the Physical Universe?, Advances in Cognitive Models and Architectures, Oxford University Press.
 - Bott, Schlotterbeck & Klein (2019). Empty-Set Effects in Quantifier Interpretation. J Seman, 36(1), 99-163.
 - Brasoveanu A., & Dotlacil J. (2020). Computational Cognitive Modeling and Linguistic Theory, Springer.
@@ -40,6 +42,8 @@ Abstracts should be anonymous and not exceed 2 pages (plus one extra page for fi
 - Scontras, G., Tessler, M. H. and Franke, M. (2018). Probabilistic language    understanding: An introduction to the Rational Speech Act framework. Retrieved 2023-4-28 from https://www.problang.org.
 - Szymanik, J. (2016). Quantifiers and Cognition: Logical and Computational Perspectives. Springer.
 - Waldon, B. and Degen, J. (2021) Modeling cross-linguistic production of referring expressions, in Proceedings of the Society for Computation in Linguistics: Vol. 4, Article 20.
+
+
 
 </details>
 
