@@ -25,3 +25,21 @@ The goal of this workshop is to bring together researchers applying different mo
 **Submissions guidelines:**
 Abstracts should be anonymous and not exceed 2 pages (plus one extra page for figures, tables, glosses, references, etc.) with 11 pt font size. Submissions can be made at the [workshop's EasyChair site](ttps://easychair.org/conferences/?conf=proscomps2023). 
 
+<details open>
+<summary>References</summary>
+
+* Anderson, J. R., (2007). How Can the Human Mind Occur in the Physical Universe?, Advances in Cognitive Models and Architectures, Oxford University Press.
+* Bott, Schlotterbeck & Klein (2019). Empty-Set Effects in Quantifier Interpretation. J Seman, 36(1), 99-163.
+* Brasoveanu A., & Dotlacil J. (2020). Computational Cognitive Modeling and Linguistic Theory, Springer.
+* Cohn-Gordon, R., N.D. Goodman, and C. Potts, (2019). An Incremental Iterated Response Model of Pragmatics, Proceedings of the Society for Computation in Linguistics, 2(10).
+* Franke, M. (2009). Signal to Act: Game Theory in Pragmatics. PhD thesis, University of Amsterdam. 
+* Frank, M. C., & Goodman, N. D. (2012). Predicting pragmatic reasoning in language games. Science, 336(6084), 998. 
+* Marr, D. (1982). Vision: A Computational Investigation Into the Human Representation and Processing of Visual Information. San Francisco, CA: W.H. Freeman. 
+* Ramotowska, S., Steinert-Threlkeld, S., van Maanen, L., & Szymanik, J. (2023). Uncovering the Structure of Semantic Representations Using a Computational Model of Decision Making. Cognitive Science, 47(1), e13234. 
+* Schlotterbeck, F., Ramotowska, S., van Maanen, L., & Szymanik, J. (2020). Representational complexity and pragmatics cause the monotonicity effect. In Proceedings of CogSci. 
+* Scontras, G., Tessler, M. H. and Franke, M. (2018). Probabilistic language    understanding: An introduction to the Rational Speech Act framework. Retrieved 2023-4-28 from https://www.problang.org.
+* Szymanik, J. (2016). Quantifiers and Cognition: Logical and Computational Perspectives. Springer.
+* Waldon, B. and Degen, J. (2021) Modeling cross-linguistic production of referring expressions, in Proceedings of the Society for Computation in Linguistics: Vol. 4, Article 20.
+
+</details>
+
