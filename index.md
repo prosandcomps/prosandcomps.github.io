@@ -22,8 +22,7 @@ Procedural and computational modeling frameworks have been applied successfully 
 
 ## Invited speakers
 [Bob van Tiel](https://bobvantiel.github.io) (Radboud University Nijmegen)
-
-tba
+[Carolin Dudschig](https://uni-tuebingen.de/de/21824) (University of Tübingen)
 
 ## Organizers
 [Sonia Ramotowska](https://sites.google.com/view/soniaramotowska) (Heinrich Heine University Düsseldorf) & [Fabian Schlotterbeck](https://uni-tuebingen.de/de/110733) (University of Tübingen)
