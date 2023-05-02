@@ -25,7 +25,8 @@ Procedural and computational modeling frameworks have been applied successfully 
 [Carolin Dudschig](https://uni-tuebingen.de/de/21824) (University of Tübingen)
 
 ## Organizers
-[Sonia Ramotowska](https://sites.google.com/view/soniaramotowska) (Heinrich Heine University Düsseldorf) & [Fabian Schlotterbeck](https://uni-tuebingen.de/de/110733) (University of Tübingen)
+[Sonia Ramotowska](https://sites.google.com/view/soniaramotowska) (Heinrich Heine University Düsseldorf)   
+[Fabian Schlotterbeck](https://uni-tuebingen.de/de/110733) (University of Tübingen)
 
 You can contact us via the workshop's [submission site at EasyChair](https://easychair.org/conferences/?conf=proscomps2023) or [email](mailto:prosandcomps@gmail.com).
 
