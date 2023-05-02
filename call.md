@@ -29,40 +29,40 @@ Abstracts should be anonymous and not exceed 2 pages (plus one extra page for fi
   <summary>References</summary>
   <ul>
     <li>
-      Anderson, J. R., (2007). How Can the Human Mind Occur in the Physical Universe?, Advances in Cognitive Models and Architectures, Oxford University Press.
+      Anderson, J. R., (2007). <em>How Can the Human Mind Occur in the Physical Universe?</em>, Advances in Cognitive Models and Architectures, Oxford University Press.
     </li>
     <li>
-      Bott, Schlotterbeck & Klein (2019). Empty-Set Effects in Quantifier Interpretation. J Seman, 36(1), 99-163.
+      Bott, Schlotterbeck & Klein (2019). Empty-Set Effects in Quantifier Interpretation. <em>Journal of Semantics</em>, 36(1), 99-163.
     </li>
     <li>
-      Brasoveanu A., & Dotlacil J. (2020). Computational Cognitive Modeling and Linguistic Theory, Springer.
+      Brasoveanu A., & Dotlacil J. (2020). <em>Computational Cognitive Modeling and Linguistic Theory</em>, Springer.
     </li>
     <li>
-      Cohn-Gordon, R., N.D. Goodman, and C. Potts, (2019). An Incremental Iterated Response Model of Pragmatics, Proceedings of the Society for Computation in Linguistics, 2(10).
+      Cohn-Gordon, R., N.D. Goodman, and C. Potts, (2019). An Incremental Iterated Response Model of Pragmatics, <em>Proceedings of the Society for Computation in Linguistics</em>, 2(10).
     </li>
     <li>
-      Franke, M. (2009). Signal to Act: Game Theory in Pragmatics. PhD thesis, University of Amsterdam. 
+      Franke, M. (2009). <em>Signal to Act: Game Theory in Pragmatics</em>. PhD thesis, University of Amsterdam. 
     </li>
     <li>
-      Frank, M. C., & Goodman, N. D. (2012). Predicting pragmatic reasoning in language games. Science, 336(6084), 998. 
+      Frank, M. C., & Goodman, N. D. (2012). Predicting pragmatic reasoning in language games. <em>Science</em>, 336(6084), 998. 
     </li>
     <li>
-      Marr, D. (1982). Vision: A Computational Investigation Into the Human Representation and Processing of Visual Information. San Francisco, CA: W.H. Freeman. 
+      Marr, D. (1982). <em>Vision: A Computational Investigation Into the Human Representation and Processing of Visual Information</em>. San Francisco, CA: W.H. Freeman. 
     </li>
     <li>
-      Ramotowska, S., Steinert-Threlkeld, S., van Maanen, L., & Szymanik, J. (2023). Uncovering the Structure of Semantic Representations Using a Computational Model of Decision Making. Cognitive Science, 47(1), e13234. 
+      Ramotowska, S., Steinert-Threlkeld, S., van Maanen, L., & Szymanik, J. (2023). Uncovering the Structure of Semantic Representations Using a Computational Model of Decision Making. <em>Cognitive Science</em>, 47(1), e13234. 
     </li>
     <li>
-      Schlotterbeck, F., Ramotowska, S., van Maanen, L., & Szymanik, J. (2020). Representational complexity and pragmatics cause the monotonicity effect. In Proceedings of CogSci. 
+      Schlotterbeck, F., Ramotowska, S., van Maanen, L., & Szymanik, J. (2020). Representational complexity and pragmatics cause the monotonicity effect. In <em>Proceedings of the 42nd Annual Meeting of the Cognitive Science Sociiety</em>. 
     </li>
     <li>
-      Scontras, G., Tessler, M. H. and Franke, M. (2018). Probabilistic language    understanding: An introduction to the Rational Speech Act framework. Retrieved 2023-4-28 from https://www.problang.org.
+      Scontras, G., Tessler, M. H. and Franke, M. (2018). <em>Probabilistic language understanding: An introduction to the Rational Speech Act framework</em>. Retrieved 2023-4-28 from https://www.problang.org.
     </li>
     <li>
-      Szymanik, J. (2016). Quantifiers and Cognition: Logical and Computational Perspectives. Springer.
+      Szymanik, J. (2016). <em>Quantifiers and Cognition: Logical and Computational Perspectives</em>. Springer.
     </li>
     <li>
-      Waldon, B. and Degen, J. (2021) Modeling cross-linguistic production of referring expressions, in Proceedings of the Society for Computation in Linguistics: Vol. 4, Article 20.
+      Waldon, B. and Degen, J. (2021) Modeling cross-linguistic production of referring expressions, in <em>Proceedings of the Society for Computation in Linguistics</em>, 4(20).
     </li>
   </ul>
 </details>
