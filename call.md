@@ -38,7 +38,7 @@ Abstracts should be anonymous and not exceed 2 pages (plus one extra page for fi
       Brasoveanu A., & Dotlacil J. (2020). <em>Computational Cognitive Modeling and Linguistic Theory</em>, Springer.
     </li>
     <li>
-      Cohn-Gordon, R., N.D. Goodman, and C. Potts, (2019). An Incremental Iterated Response Model of Pragmatics, <em>Proceedings of the Society for Computation in Linguistics</em>, 2(10).
+      Cohn-Gordon, R., Goodman, N.D., and Potts, C. (2019). An Incremental Iterated Response Model of Pragmatics, <em>Proceedings of the Society for Computation in Linguistics</em>, 2(10).
     </li>
     <li>
       Franke, M. (2009). <em>Signal to Act: Game Theory in Pragmatics</em>. PhD thesis, University of Amsterdam. 
@@ -53,7 +53,7 @@ Abstracts should be anonymous and not exceed 2 pages (plus one extra page for fi
       Ramotowska, S., Steinert-Threlkeld, S., van Maanen, L., & Szymanik, J. (2023). Uncovering the Structure of Semantic Representations Using a Computational Model of Decision Making. <em>Cognitive Science</em>, 47(1), e13234. 
     </li>
     <li>
-      Schlotterbeck, F., Ramotowska, S., van Maanen, L., & Szymanik, J. (2020). Representational complexity and pragmatics cause the monotonicity effect. In <em>Proceedings of the 42nd Annual Meeting of the Cognitive Science Sociiety</em>. 
+      Schlotterbeck, F., Ramotowska, S., van Maanen, L., & Szymanik, J. (2020). Representational complexity and pragmatics cause the monotonicity effect. In <em>Proceedings of the 42nd Annual Meeting of the Cognitive Science Society</em>. 
     </li>
     <li>
       Scontras, G., Tessler, M. H. and Franke, M. (2018). <em>Probabilistic language understanding: An introduction to the Rational Speech Act framework</em>. Retrieved 2023-4-28 from https://www.problang.org.
