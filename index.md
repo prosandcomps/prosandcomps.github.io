@@ -16,16 +16,17 @@ Procedural and computational modeling frameworks have been applied successfully 
 ![Ljubljana](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Ljubljanica_01.jpg/1200px-Ljubljanica_01.jpg)
 
 ## Dates
-- Submission deadline: 5 May 2023
+- Submission deadline: 8 May 2023
 - Notification: 29 May 2023
 - Workshop: 31 July -- 4 August 2023
 
 ## Invited speakers
-[Bob van Tiel](https://bobvantiel.github.io) (Radboud University Nijmegen)
+[Bob van Tiel](https://bobvantiel.github.io) (Radboud University Nijmegen)   
 [Carolin Dudschig](https://uni-tuebingen.de/de/21824) (University of Tübingen)
 
 ## Organizers
-[Sonia Ramotowska](https://sites.google.com/view/soniaramotowska) (Heinrich Heine University Düsseldorf) & [Fabian Schlotterbeck](https://uni-tuebingen.de/de/110733) (University of Tübingen)
+[Sonia Ramotowska](https://sites.google.com/view/soniaramotowska) (Heinrich Heine University Düsseldorf)   
+[Fabian Schlotterbeck](https://uni-tuebingen.de/de/110733) (University of Tübingen)
 
 You can contact us via the workshop's [submission site at EasyChair](https://easychair.org/conferences/?conf=proscomps2023) or [email](mailto:prosandcomps@gmail.com).
 
