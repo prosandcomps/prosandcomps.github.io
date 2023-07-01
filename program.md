@@ -13,7 +13,7 @@
 | 17:00 | Daphne Wang and Mehrnoosh Sadrzadeh | Sheaves and garden-path sentences | 
 | 17:45 | Hening Wang and Fabian Schlotterbeck | A Quantitative Exploration of Adjective Ordering Preferences with an Incremental Rational Speech Act Model |  
 | |
-| 19:30 | Dinner |
+| 19:30 | | Dinner |
 | |
 | **Thursday** |
 | 17:00 | Alexandra Mayn, Jia E. Loy and Vera Demberg | Modeling Overspecification as Uncertainty About Feature Uniqueness |
