@@ -1,7 +1,6 @@
 ## Preliminary Program
 
 | Time | Speaker | Title |
-| :--  | :--     | :--   |
 | *Monday* |
 | 17:00 | Sonia Ramotowska & Fabian Schlotterbeck | Introduction | 
 | 17:30 | Carolin Dudschig | tba |
