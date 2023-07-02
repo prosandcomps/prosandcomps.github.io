@@ -1,11 +1,11 @@
 ## Preliminary Program
 
 | Time | Speaker | Title |
-<td colspan=3> **Monday** |
+| **Monday** |||
 | 17:00 | Sonia Ramotowska & Fabian Schlotterbeck | Introduction | 
 | 17:30 | Carolin Dudschig | tba |
 ||||
-<td colspan=3> **Monday** |
+| **Tuesday** |||
 | 17:00 | Sonia Ramotowska & Fabian Schlotterbeck | Investigation of semantic representations of quantifiers with the Diffusion Decision Model |
 | 17:45 | Mizuki Iinuma, Sora Tagami, Yuta Takahashi and Daisuke Bekki | Neural DTS: A hybrid NLI system combining two procedural approaches |
 ||||
