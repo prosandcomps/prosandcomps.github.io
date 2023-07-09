@@ -4,6 +4,7 @@ plugins:
 header_pages:
   - index.md
   - call.md
+  - program.html
 minima:
   skin: dark
   social_links:
