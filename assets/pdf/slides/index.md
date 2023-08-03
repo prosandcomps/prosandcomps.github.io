@@ -1,7 +1,7 @@
-#Slides
+# Slide
 
-[Iinuma_Pros&Ciomps.pdf](assets/pdf/slides/Iinuma_Pros&Ciomps.pdf)  
-[Kobrock_Pros&Comps.pdf](Kobrock_Pros&Comps.pdf)  
-[Mayn_Pros&Comps.pdf](Mayn_Pros&Comps.pdf)  
-[ProsComps23_Ramotowska_Schlotterbeck.pdf](ProsComps23_Ramotowska_Schlotterbeck.pdf)  
-[Wang_Pros&Comps.pdf](Wang_Pros&Comps.pdf)  
+- [Iinuma et al.](Iinuma_et_al_ProsComps.pdf)  
+- [Kobrock_et_al.](Kobrock_et_al_ProsComps.pdf)  
+- [Mayn, Loy and Demberg](Mayn_Loy_Demberg_ProsComps.pdf)  
+- [Ramotowska and Schlotterbeck](Ramotowska_Schlotterbeck_ProsComps.pdf)  
+- [Wang_Sadrzadeh](Wang_Sadrzadeh_ProsComps.pdf)  
