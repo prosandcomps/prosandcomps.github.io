@@ -1,5 +1,6 @@
 # Slides
 
+- [Dudschig](Dudschig_ProsComps.pdf)
 - [Iinuma et al.](Iinuma_et_al_ProsComps.pdf)  
 - [Kobrock et al.](Kobrock_et_al_ProsComps.pdf)  
 - [Mayn, Loy and Demberg](Mayn_Loy_Demberg_ProsComps.pdf)  
